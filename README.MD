@@ -2,6 +2,8 @@
 
 A simple npm package to extract text content from PDF files. It supports both local file paths and remote URLs.
 
+#### This package is fully compatible with Next JS and React on server side.
+
 ## Requirements
 
 - Node.js
