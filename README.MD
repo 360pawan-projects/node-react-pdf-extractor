@@ -27,10 +27,10 @@ A simple npm package to extract text content from PDF files. It supports both lo
      ```
    - On Windows, download and install Poppler from [Poppler for Windows](http://blog.alivate.com.au/poppler-windows/). Ensure the directory containing `pdftotext.exe` is in your PATH.
 
-**Install `PDFExtractor`**:
+**Install `PDF Extractor`**:
 
 ```bash
-npm install PDFExtractor
+npm i node-react-pdf-extractor
 ```
 
 ## Usage
