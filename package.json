@@ -1,6 +1,6 @@
 {
   "name": "node-react-pdf-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to extract text content from PDF files",
   "main": "index.js",
   "scripts": {
