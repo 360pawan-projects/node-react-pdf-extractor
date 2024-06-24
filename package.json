@@ -1,0 +1,20 @@
+{
+  "name": "node-react-pdf-extractor",
+  "version": "1.0.0",
+  "description": "A package to extract text content from PDF files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "pdf",
+    "text",
+    "extraction"
+  ],
+  "author": "360Pawan",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "type": "module"
+}
